@@ -26,7 +26,7 @@ $ node -v
  - Clone the repository
 
   ```sh
-$ git clone https://github.com/Superior-925/Social-network-backend-nodejs.git
+$ git clone https://github.com/Superior-925/Social-network-back-local.git
  ```
 
 - Go to project folder
