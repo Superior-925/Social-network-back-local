@@ -51,6 +51,12 @@ DB_NAME
 $ npm install
 ```
 
+ - Generate secret keys
+
+ ```sh
+$ npm run keys:generate
+```
+
  - Create a database
 
 ```sh
